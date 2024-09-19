@@ -1,0 +1,9 @@
+{
+    "Lua.diagnostics.globals": [
+        "transition",
+        "countdownTimer"
+    ],
+    "Lua.diagnostics.disable": [
+        "undefined-global"
+    ]
+}
